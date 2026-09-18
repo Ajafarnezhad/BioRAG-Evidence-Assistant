@@ -1,0 +1,36 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+chroma_db/
+*.sqlite3
+
+documents/
+*.pdf
+*.docx
+*.txt
+
+.env
+
+eval_results/
+benchmark_results/
+*.log
+
+.vscode/
+.idea/
+
+*.tmp
+*.temp
+
+.local/
+cache/
+
+logs/
+*.log
